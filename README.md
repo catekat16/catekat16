@@ -4,7 +4,7 @@
 
 💻 At my core, I'm passionate about building platforms to connect, support, and elevate people. My latest project _Sincerely,_ was inspired by the lack of deep social connections made through traditional social media platforms and by fond memories of writing and receiving long letters during summer camps.  
 
-🎨 As an lifelong artist, I have explored various mediums of art, through my instagram art accounts @pen_doodles and @digi.adventure.
+🎨 As an lifelong artist, I have explored various mediums of art, through my instagram art accounts <a href="https://www.instagram.com/pen_doodles/">@pen_doodles</a> and <a href="https://www.instagram.com/digi.adventure/">@digi.adventure</a>.
 
 🐚 Now, my goal is to design ui that's beautiful to the eye, and enhance the usability of useful products. I strive for designs that will leave the user with memorable, genuine, and even playful experiences that they will want to keep coming back to. 
 
