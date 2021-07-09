@@ -2,7 +2,7 @@
 
 ✨ I'm a woman in finance who's a product designer at heart with software engineering skills.✨
 
-💻 At my core, I'm passionate about building platforms to connect, support, and elevate people. My latest project _Sincerely,_ was inspired by the lack of deep social connections made through traditional social media platforms and by fond memories of writing and receiving long letters during summer camps.  
+💻 At my core, I'm passionate about building platforms to connect, support, and elevate people. Currently, I'm working on developing <a href="https://www.foodfindsapp.com/">🍕 FoodFinds</a>, an app for college students to stay in the know about free food items floating around on campus. 👀  
 
 🎨 As an lifelong artist, I have explored various mediums of art, through my instagram art accounts <a href="https://www.instagram.com/pen_doodles/">@pen_doodles</a> and <a href="https://www.instagram.com/digi.adventure/">@digi.adventure</a>.
 
