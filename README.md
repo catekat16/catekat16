@@ -1,6 +1,6 @@
 ## Hi, I'm Caitlyn 👩🏻‍💻🌸✨ 
 
-✨ I'm a woman in finance who's a product designer at heart with software engineering skills.✨
+✨ I'm a woman in finance who's a software engineer and product designer at heart.✨
 
 💻 At my core, I'm passionate about building platforms to connect, support, and elevate people. Currently, I'm working on developing <a href="https://www.foodfindsapp.com/">🍕 FoodFinds</a>, an app for college students to stay in the know about free food items floating around on campus. 👀  
 
