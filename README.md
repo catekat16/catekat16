@@ -10,4 +10,4 @@
 
 Check out my <a href="https://caitlynchen.com/">personal website</a> and <a href="https://github.com/catekat16/starcheck">design process</a> and join me on my journey!
 
-![Caitlyn's github stats](https://github-readme-stats.vercel.app/api?username=catekat16&count_private=true&show_icons=true&hide=stars,prs&theme=omni)
+<!-- ![Caitlyn's github stats](https://github-readme-stats.vercel.app/api?username=catekat16&count_private=true&show_icons=true&hide=stars,prs&theme=omni) -->
